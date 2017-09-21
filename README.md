@@ -18,7 +18,7 @@
     
     
 ## DEVELOPERS
-    Ken R.U., Meltoy Werks, Wipi Pahayahay ,Romel Credo ,Lawrence Nodado ,Clifford Umbac
+    Ken R.U., Meltoy Werks, Wipi Pahayahay ,Romel Milan ,Lawrence Nodado ,Clifford Umbac
 
 
 ## LICENSE
