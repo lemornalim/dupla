@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled 
+a934d48a0c5585ee86add7ff00ac10ebbb484c27 refs/heads/inventory
+f1aa9713b30dd76d06e200d5601b7eabe7e067aa refs/heads/mandaueimp
+8463821632b76bb1f552d642596fe61455d3a84f refs/heads/master
+d12ef0c4e6ef594a8ffd14d8ebf4ca4f7cc842eb refs/heads/test123
+a934d48a0c5585ee86add7ff00ac10ebbb484c27 refs/heads/wipybranch
+0bffff6aafe36c1cbf9d83f93a9997780fa3fec7 refs/remotes/origin/master
+2c39d1f2d5a282e9f37c70ad677e2bbee53274e3 refs/stash

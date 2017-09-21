@@ -1,0 +1,16 @@
+.DS_Store
+/tmp/dbackup/*
+/tmp/*
+/tmp/ubackup/*
+/dbackup/*
+/ubackup/*
+application/cache/*
+!application/cache/index.html
+!application/cache/.htaccess
+local_config.php
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+.idea/*
+/BACKUP/*
+
